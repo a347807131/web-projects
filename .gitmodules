@@ -1,0 +1,9 @@
+[submodule "homepage"]
+	path = homepage
+	url = git@github.com:a347807131/homepage.git
+[submodule "navi-pages"]
+	path = navi-pages
+	url = git@github.com:a347807131/navi-pages.git
+[submodule "blog"]
+	path = blog
+	url = git@github.com:a347807131/blog.git
